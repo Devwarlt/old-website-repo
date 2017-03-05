@@ -11,3 +11,4 @@ Credits for development:
 - @Kithio
 - @creepylava
 - @Omniraptyr
+- @Slendergo
